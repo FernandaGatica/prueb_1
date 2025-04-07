@@ -1,0 +1,33 @@
+body {
+    background-color:#000000;
+    }
+.crunchyroll_logo {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    width: 9rem;
+}
+.header {
+    background-color:#23252b;
+    display: flex;
+    height: 4rem;
+    align-items: center;
+    justify-content: space-between;
+}
+a {
+    display: inline-block;
+    height: 100%;
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #dadad4;
+    line-height: 4rem;
+   
+   
+}
+
+nav a:hover {
+    background-color: #141519;
+    color: #FFFFFF;
+    
+}
+
+    
