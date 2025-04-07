@@ -13,21 +13,24 @@ body {
     align-items: center;
     justify-content: space-between;
 }
-a {
+nav a{
     display: inline-block;
+
     height: 100%;
     margin-right: 1rem;
     text-decoration: none;
     color: #dadad4;
     line-height: 4rem;
    
-   
 }
-
 nav a:hover {
+   
     background-color: #141519;
     color: #FFFFFF;
     
+}
+.front_page {
+    background: url(CSS\IMG\solo-leveling-season-2-key-visual-wide.png);
 }
 
     
